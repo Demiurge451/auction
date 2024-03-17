@@ -17,6 +17,7 @@
 - Сопроводительное письмо [Docx](https://github.com/Demiurge451/auction/blob/main/documentation/covering_letter/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [PDF](https://github.com/Demiurge451/auction/blob/main/documentation/covering_letter/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
 
 ## Ссылки
-[![YouTrack](https://img.shields.io/badge/YouTrack-<COLOR>.svg)](https://konstantintp.youtrack.cloud/projects/f0de44e9-51c1-42af-aaf5-fb2587aed714)  
-[![Miro](https://img.shields.io/badge/Miro-<COLOR>.svg)](https://miro.com/app/board/uXjVNov3QvM=/?share_link_id=305006846722)  
-[![Figma](https://img.shields.io/badge/Figma-<COLOR>.svg)](https://www.figma.com/file/ud4RUD0ILNRaBqsZU24VNk/DesignPrototype?type=design&node-id=0%3A1&mode=design&t=o07kuDu7pwii4QtT-1)
+[YouTrack - доска с задачами](https://konstantintp.youtrack.cloud/agiles/159-2/current)  
+[YouTrack - база знаний](https://konstantintp.youtrack.cloud/articles/ATP)  
+[Miro](https://miro.com/app/board/uXjVNov3QvM=/?share_link_id=305006846722)  
+[Figma](https://www.figma.com/file/ud4RUD0ILNRaBqsZU24VNk/DesignPrototype?type=design&node-id=0%3A1&mode=design&t=o07kuDu7pwii4QtT-1)
