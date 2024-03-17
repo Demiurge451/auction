@@ -13,7 +13,7 @@
 
 ## Презентация проекта
 - Презентация [Pptx](https://github.com/Demiurge451/auction/blob/main/presentation/ModernAuction.pptx) [PDF](https://github.com/Demiurge451/auction/blob/main/presentation/ModernAuction.pdf)
-- Видео презентация [YouTube](https://youtu.be/iHquxP0eJwo)
+- Видео презентация [YouTube](https://youtu.be/K7OA4ZGkkN8)
 - Сопроводительное письмо [Docx](https://github.com/Demiurge451/auction/blob/main/documentation/covering_letter/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [PDF](https://github.com/Demiurge451/auction/blob/main/documentation/covering_letter/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
 
 ## Ссылки
